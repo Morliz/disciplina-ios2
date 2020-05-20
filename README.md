@@ -1,3 +1,3 @@
-# Projeto de API FoodTruck
+# FoodTruck API para Android
 
-# Coming Soon ...
+# Mostra no mapa a posição dos food trucks
