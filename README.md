@@ -1,3 +1,3 @@
-# FoodTruck API para Android
+# FoodTruck API
 
-# Mostra no mapa a posição dos food trucks
+# REST API to FoodTruck App (Android)
